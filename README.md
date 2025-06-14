@@ -28,7 +28,7 @@ The script is designed for repetition and function modularity practice.
 - `purchase-simulator-input.js`: contains the input-based version logic
 
 ## 🚀 How to Run
-Copy the script into the browser console for Input-Based Version
+Copy the script into the browser console for Input-Based Version\n
 or You can run it in Node.js for Standard Version
 ```bash
-node index.js
+node purchase-simulator.js
