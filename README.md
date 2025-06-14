@@ -5,7 +5,7 @@ A small JavaScript practice project based on the book **"You Don’t Know JS: Up
 This repository contains two versions of the phone purchase simulation:
 
 1. **Standard Version**: Uses predefined constants and balance.
-2. **Input-Based Version** (for browser): Uses `prompt()` to ask user for their bank balance. You can test it in the browser console.
+2. **Input-Based Version** (for browser): Uses `prompt()` to ask user for their bank balance. You can test it in the browser console by copying the script into that.
 
 This simulation calculates how many phones (and accessories) a user can purchase based on:
 - Phone/accessory prices
@@ -27,8 +27,8 @@ The script is designed for repetition and function modularity practice.
 - `purchase-simulator.js`: contains the standard version logic
 - `purchase-simulator-input.js`: contains the input-based version logic
 
-## 🚀 How to Run
-Copy the script into the browser console for Input-Based Version\n
-or You can run it in Node.js for Standard Version
+## 🚀 How to Run Standard Version
+You can run it in Node.js
+
 ```bash
 node purchase-simulator.js
